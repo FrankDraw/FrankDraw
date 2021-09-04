@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FrankDraw
+- 👋 Hi, I’m Frank Draw.
 - 👀 I’m interested in UEFI Firmware and Linux;
-- 🌱 I’m currently learning UEFI;
+- 🌱 I’m currently learning UEFI and Ubuntu.
 - 💞️ I’m looking to collaborate on UEFI Firmware develpoment;
 - 📫 How to reach me Wechat: INC4004
 
